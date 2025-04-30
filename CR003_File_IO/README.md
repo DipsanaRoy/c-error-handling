@@ -7,7 +7,7 @@
 
 ## Useful Links:
 
-- [CR3 Notes](https://github.com/DipsanaRoy/c-error-handling/main/tree/CR003_File_IO/CE3_NOTES.md)
+- [CR3 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR003_File_IO/CE3_NOTES.md)
 
 *Happy Learning!*
 
