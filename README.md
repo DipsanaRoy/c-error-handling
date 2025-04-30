@@ -9,7 +9,7 @@ Welcome to **C Error Handling**, a future-focused repo that explores how to writ
 
 ---
 
-## Folder Structure (with working links):
+## 📁 Folder Structure (with links):
 
 - 📁 [CR001_Basics](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR001_Basics)  
 - 📁 [CR002_Variadic_Arguments](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR002_Variadic_Arguments)  
