@@ -8,7 +8,7 @@
 
 ## Useful Links:
 
-- [CR2 Notes](https://github.com/DipsanaRoy/c-error-handling/main/tree/CR002_Variadic_Arguments/CR2_NOTES.md)
+- [CR2 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR002_Variadic_Arguments/CR2_NOTES.md)
 
 *Happy Learning!*
 
