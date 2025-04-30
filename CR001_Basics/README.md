@@ -5,7 +5,7 @@
 
 ## Useful Links:
 
-- [CR1 Notes](https://github.com/DipsanaRoy/c-error-handling/main/tree/CR001_Basics/CR1_NOTES.md)
+- [CR1 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR001_Basics/CR1_NOTES.md)
 
 *Happy Learning!*
 
