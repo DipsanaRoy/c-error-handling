@@ -9,15 +9,14 @@ Welcome to **C Error Handling**, a future-focused repo that explores how to writ
 
 ---
 
-## 📂 Folder Overview
+## Folder Structure (with working links):
 
-```
-/
-├─ 📁 [CR001_Basics](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR001_Basics)
-├─ 📁 [CR002_Variadic_Arguments](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR002_Variadic_Arguments)
-├─ 📁 [CR003_File_IO](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR003_File_IO)
-└─ 📁 [CR004_Directory](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR004_Directory)
-```
+- 📁 [CR001_Basics](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR001_Basics)  
+- 📁 [CR002_Variadic_Arguments](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR002_Variadic_Arguments)  
+- 📁 [CR003_File_IO](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR003_File_IO)  
+- 📁 [CR004_Directory](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR004_Directory)
+
+---
 
 Each folder contains:
 - 💻 Real-life use cases like file/directory safety and retry logic  
