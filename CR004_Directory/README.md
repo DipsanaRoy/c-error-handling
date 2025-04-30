@@ -7,7 +7,7 @@
 
 ## Useful Links:
 
-- [CR4 Notes](https://github.com/DipsanaRoy/c-error-handling/main/tree/CR004_Directory/CR4_NOTES.md)
+- [CR4 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR004_Directory/CR4_NOTES.md)
 
 *Happy Learning!*
 
