@@ -1,15 +1,9 @@
+# *Coming Soon!* 🥰
 
-*Coming Soon!*🥰
+<!-- # Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
 
-<!-- 
----
+## Useful Links
 
-# Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
+- [CR002 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR002_Variadic_Arguments/CR002_NOTES.md)
 
-## Useful Links:
-
-- [CR2 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR002_Variadic_Arguments/CR2_NOTES.md)
-
-*Happy Learning!*
-
---- -->
+*Happy Learning!* -->
