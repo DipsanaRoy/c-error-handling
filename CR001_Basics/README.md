@@ -1,12 +1,7 @@
-
----
-
 # Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
 
-## Useful Links:
+## Useful Links
 
-- [CR1 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR001_Basics/CR1_NOTES.md)
+- [CR001 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR001_Basics/CR001_NOTES.md)
 
 *Happy Learning!*
-
----
