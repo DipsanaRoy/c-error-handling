@@ -1,6 +1,3 @@
-
----
-
 # 🚨 C Error Handling – Safer C with Smarter Logic
 
 Welcome to **C Error Handling**, a future-focused repo that explores how to write safer, more reliable C programs. Here you'll find examples on input validation, file and memory safety, variadic handling, and more — all crafted with clarity and beginner support in mind.
@@ -9,7 +6,7 @@ Welcome to **C Error Handling**, a future-focused repo that explores how to writ
 
 ---
 
-## 📁 Folder Structure (with links):
+## Folder Structure (with working links)
 
 - 📁 [CR001_Basics](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR001_Basics)  
 - 📁 [CR002_Variadic_Arguments](https://github.com/DipsanaRoy/c-error-handling/tree/main/CR002_Variadic_Arguments)  
@@ -19,6 +16,7 @@ Welcome to **C Error Handling**, a future-focused repo that explores how to writ
 ---
 
 Each folder contains:
+
 - 💻 Real-life use cases like file/directory safety and retry logic  
 - ✅ Error-handled C code with custom messages and retry prompts  
 - 📝 Notes and explanations to make things less scary and more logical  
@@ -34,12 +32,14 @@ You can also explore the **different branches** of this repository to study topi
 ## 🏃‍♂️ How to Run Code
 
 ### 🔧 Using GCC (Terminal)
+
 ```bash
 gcc filename.c -o output
 ./output
 ```
 
-### 💻 Or an IDE 
+### 💻 Or an IDE
+
 Use **VS Code** (recommended) with the **C/C++ Extension Pack** and **MinGW**, or any simple IDE like **Code::Blocks** or **Dev C++**.
 
 - [⬇️ Download `VS Code`](https://code.visualstudio.com/download)  
@@ -58,7 +58,7 @@ Use **VS Code** (recommended) with the **C/C++ Extension Pack** and **MinGW**, o
 ---
 
 ## 🙌 References
- 
+
 - 🤖 ChatGPT  
 - 🔍 Google  
 - 📚 Personal experience and a few forgotten book names!
