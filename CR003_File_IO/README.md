@@ -1,14 +1,9 @@
+# *Coming Soon!* 🥰
 
-*Coming Soon!*🥰
+<!-- # Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
 
-<!-- ---
+## Useful Links
 
-# Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
+- [CR003 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR003_File_IO/CE003_NOTES.md)
 
-## Useful Links:
-
-- [CR3 Notes](https://github.com/DipsanaRoy/c-error-handling/blob/main/CR003_File_IO/CE3_NOTES.md)
-
-*Happy Learning!*
-
---- -->
+*Happy Learning!* -->
